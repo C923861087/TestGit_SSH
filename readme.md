@@ -4,3 +4,5 @@ readme
 
 add cur version is v1.1
 
+nihao
+
